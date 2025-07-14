@@ -8,39 +8,48 @@
 
 I'm a Abhiraj Singh Chouhan(AJ)🔸Problem Solving🔸Open Source Contribution🔸Data Sci
 
-## **TechStack:**
+### ⚙️ **Tech Stack**
 
-<p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp" alt="html"></code>
-  <!-- in <head> -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp" alt="css"></code>
-<code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40" alt="js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp" alt="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/mysql.svg" alt="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/cpp.svg"  alt="cpp/c++"></code>
-<code><img height="40" src="./svg/docker.svg" alt="docker"></code>
-<code><img height="40" src="./svg/kubernetes.svg"  alt="kubernetes/k8s"></code>
-<code><img height="40" src="./svg/jira.svg" alt="jira"></code>
-<code><img height="40" src="./svg/typeorm.svg" alt="typeorm"></code>
-<code><img height="40" src="./svg/php.svg" alt="php"></code>
-<br>
-<code><img height="40" src="./svg/wordpress.svg" alt="wordpress/wp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/c.svg"  alt="c"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/git.webp" alt="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/github.webp" alt="github"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp" alt="nodejs"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"  alt="ganache"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/solidity.png" alt="solidity"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png" alt="ethersjs"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/hardhat.png" alt="hardhat"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/truffle.png" alt="truffle"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png" alt="web3"></code>
+#### 👨‍💻 **Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
----
+#### 🌐 **Web Technologies**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+</p>
+
+#### 🛠️ **Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server" />
+</p>
+
+#### ⚒️ **Tools and Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" />
+</p>
+
 
 ## **Github Stats:**
 
