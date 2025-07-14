@@ -36,6 +36,9 @@ I'm a Abhiraj Singh Chouhan(AJ)🔸Problem Solving🔸Open Source Contribution�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server" />
+  <img src="https://www.svgrepo.com/show/353851/hadoop.svg" height="40" alt="SQL Server" />
+  
+  
 </p>
 
 #### ⚒️ **Tools and Platforms**
